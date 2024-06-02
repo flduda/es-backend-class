@@ -1,0 +1,6 @@
+print('Igual (==) 9==0', 5==5)
+print('Diferente (!=) 59!=5', 59!=5)
+print('Maior que (>) 5>50', 5>50)
+print('Menor que (<) 5<95', 5<95)
+print('Maior ou igual (>=) 5>=9', 5>=9)
+print('Menor ou igual (<=5) 5<=5', 5<=5)
